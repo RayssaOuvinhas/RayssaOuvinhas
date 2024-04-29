@@ -1,4 +1,4 @@
-<p align="center">Hello World!!</p>
+<h1 align="center">Hello World!!</h1>
 
 ###
 
@@ -9,7 +9,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RayssaOuvinhas/RayssaOuvinhas/output/snake.svg" alt="Snake animation" />
 
-###
 
